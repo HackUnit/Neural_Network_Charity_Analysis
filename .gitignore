@@ -1,7 +1,8 @@
 # Local files to ignore
-*.ipynb
 *.csv
 
+# Local directories to ignore
+checkpoints/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
