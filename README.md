@@ -52,7 +52,7 @@ This score subsequently was utilized as a "marking stick" to set the bar and com
 This meant that the **LeakyReLU** function remained in the third layer as an activation function, and the third layer itself kept 10 nodes. The only alteration besides restoring the data was that the number of epochs was brought down to 50. The model in both previous attempts seemed to come to its best score at this point and further epochs was unnecessary and a time waste.
 
 ![Third model's structure](Resources/images/third_attempt_nn_model_structure.png)
-<sub>Third model's structure</sub>
+<br><sub>Third model's structure</sub>
 <br><br>
 
 * When the third attempt was run, the results showed an immediate improvement over the previous two attempts with the accuracy being at just ~73% and the loss reducing down to 56%. While this was spectacular since there was a slight improvement over the original model, the massive caveat in the grand scheme of things is that no actual progress had been made. The goal of get above 75% still was a challenge I wanted to give more than three shots at. There were far more things I could do to see if I could get the model to perform better.
