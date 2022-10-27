@@ -75,7 +75,7 @@ This resulted in the model performing decimal points worse.
 The model again stayed nominally the same as the second attempt, if not worse.
 
 - For the fourth attempt I raised the original two hidden layers nodes to 100 and 50 respectively, commented out the layer added in the last attempt, kept the activation functions the same, and the APPLICATION_TYPE and CLASSIFICATION cells were changed back to their original values.
-The results again did not change in any way to matter, and I finally concluded that I could not achieve the target performance either by my lack of experience, my lack of knowledge from not fully grasping the concepts, or the data however tweaked was at the core not enough data to hit a **75%** accuracy. The model was changed back to the actual third attempt and the HDF5 file created.
+The results again did not change in any way to matter, and I finally concluded that I could not achieve the target performance either by my lack of experience, my lack of knowledge from not fully grasping the concepts, or the data however tweaked was at the core not enough data to hit a **75%** accuracy. The model was changed back to the original third attempt for the Challenge and the HDF5 file created.
 
 <br>
 <br>
