@@ -7,7 +7,7 @@ Using machine learning and neural networks, a model would be created specificall
 
 ## Setting the Groundwork:
 
-To begin the original model created during practicing was ran to collect its structure and score of 72% accuracy and 56% loss. <br>
+To begin the original model created during practicing was ran to collect its structure and a score of 72% accuracy and 56% loss. <br>
 This score subsequently was utilized as a "marking stick" to set the bar and compare against the following attempts to get the model's accuracy at **75%**.
 
 
