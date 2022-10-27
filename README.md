@@ -17,7 +17,7 @@ This score subsequently was utilized as a "marking stick" to set the bar and com
 
 - For the features, any column that was an active variable, such as ***ASK_AMT***, ***USE_CASE***, ***INCOME_AMT***, ***STATUS***, ***USE_CASE***, and ***AFFILIATION***, ***ORGANIZATION***, and finally ***SPECIAL_CONSIDERATIONS*** were utilized.
 
-- Through the preliminary Deliverables, ***EIN*** and ***NAME*** were dropped from the dataset. On the model's first attempt at raising the accuracy of the model; ***APPLICATION_TYPE*** and ***CLASSIFICATION*** were dropped. This was due to the fact that the former referenced an arbitrary system utilized by Alphabet Soup and the latter being a code used by a governmental entity to classify an organization within their own system. Neither provided any information that would be of any use to the model.
+- Through the preliminary Deliverables, ***EIN*** and ***NAME*** were dropped from the dataset. On this model's first attempt at raising the accuracy of the model; ***APPLICATION_TYPE*** and ***CLASSIFICATION*** were dropped. This was due to the fact that the former referenced an arbitrary system utilized by Alphabet Soup and the latter being a code used by a governmental entity to classify an organization within their own system. Neither provided any information that would be of any use to the model.
 
 
 ### Compiling, Training, and Evaluating the Neural Network Model
